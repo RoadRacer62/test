@@ -1,2 +1,1 @@
-def WhiteWalkers(village):
-    return True
+=== PASS ===
